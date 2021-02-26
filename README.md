@@ -8,9 +8,16 @@
 # Learning
 - React/NextJS
 
-# Currently Reading
+# Reading
+
+## Current
 - The Legend of Corinair (The Frontiers Saga #3) by Ryk Brown 
 - How JavaScript Works by Douglas Crockford
+- Functional Lite by Kyle Simpson
+
+## Finished
+- The Frontiers Saga #1 & #2 by Ryk Brown
+ 
 
 
 <!--
