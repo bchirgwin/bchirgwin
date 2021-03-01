@@ -1,5 +1,5 @@
 # Me
-- Terri, my Wife, has had her 2nd vaccine. I am still waiting. The Governer has announced the mask mandate will be lifted end of March. Most likely will not my vaccine by then, definitely, not both vaccines.
+- Terri, my Wife, has had her 2nd vaccine. I am still waiting. The Governer has announced the mask mandate will be lifted end of March. Most likely will not have my vaccine by then, definitely not the 2nd dose.
 - March 7, 2021 will be a year since I last traveled.
 - Relocated during the COVID-19 pandemic.
 - Our dog is a Red Heeler/Black Dachshund mix. Her name is **Roulette**.
