@@ -1,18 +1,22 @@
-## Latest News [updated 2021-07-20]
+## Latest News [updated 2021-08-15]
 
-I am still taking care of Terri, but no longer on FMLA at this time. You can get updates and read more details [here](https://www.gofundme.com/f/fcpxn-terris-recovery-fund). You can also help with expenses.
+Terri's leg is schedule to be drained 1 week. I am hoping it isn't canceled as a elective proceedure. At last measurement it was 2.5 liters of fluid on her calf making it difficult to walk. I think it is bigger. A drain will be in for about 6 weeks. I will also be driving her to an appointment 3x a week. This will be a 1/2 day of time as it is 3 hours round trip to the appointment. 
+
+You can get updates and read more details [here](https://www.gofundme.com/f/fcpxn-terris-recovery-fund). You can also help with expenses.
 
 ## About Me
 
 - Relocated during the COVID-19 pandemic.
 - Our dog is a Red Heeler/Black Dachshund mix. Her name is **Roulette**.
-- 
+
 
 ## Current Projects
+
 - Pill Reminder
 - Cheatsheet Builder: Markdown file to PDF generating a cheatsheet worthy of being laminated.  
 
 ## Learning
+
 - React/NextJS
 
 ## Reading
