@@ -1,6 +1,6 @@
 ## Latest News [updated 2021-08-15]
 
-Terri's leg is schedule to be drained 1 week. I am hoping it isn't canceled as a elective proceedure. At last measurement it was 2.5 liters of fluid on her calf making it difficult to walk. I think it is bigger. A drain will be in for about 6 weeks. I will also be driving her to an appointment 3x a week. This will be a 1/2 day of time as it is 3 hours round trip to the appointment. 
+Terri's leg is schedule to be drained in 1 week. I am hoping it isn't canceled as a elective proceedure. At last measurement it was 2.5 liters of fluid on her calf making it difficult to walk. I think it is bigger. A drain will be in for about 6 weeks. I will also be driving her to an appointment 3x a week. This will be a 1/2 day of time as it is 3 hours round trip to the appointment. 
 
 You can get updates and read more details [here](https://www.gofundme.com/f/fcpxn-terris-recovery-fund). You can also help with expenses.
 
