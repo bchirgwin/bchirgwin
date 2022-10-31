@@ -1,4 +1,4 @@
-## Latest News [updated 2022-06-27]
+## Latest News [updated 2022-10-31]
 
 ## About Me
 
@@ -14,7 +14,8 @@
 
 ## Learning
 
-- React/NextJS
+- GoLang
+- Flutter
 - Writing ESLint rules
 - Docker
 - AWS
@@ -22,7 +23,7 @@
 
 ## Reading
 
-- The Frontiers Saga: Liberation (Book 10) Ryk Brown
+- Ep.#1.14 - "The Weak and the Innocent" (The Frontiers Saga Book 14) by Ryk Brown
 - How JavaScript Works by Douglas Crockford
 - Functional Lite by Kyle Simpson
 
