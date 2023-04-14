@@ -1,4 +1,9 @@
-## Latest News [updated 2022-10-31]
+## Latest News [updated 2023-04-14]
+
+## Looking for consulting, part-time work. 
+- Angular
+- GoLang
+- Docker
 
 ## About Me
 
@@ -8,24 +13,14 @@
 
 ## Current Projects
 
-- chirgwin.net update
-- Pill Reminder App
-- Cheatsheet Builder: Markdown file to PDF generating a cheatsheet worthy of being laminated.  
+- Writing a development course
 
 ## Learning
-
-- GoLang
-- Flutter
-- Writing ESLint rules
-- Docker
-- AWS
-- github actions
+- Constantly learning
 
 ## Reading
 
-- Ep.#1.14 - "The Weak and the Innocent" (The Frontiers Saga Book 14) by Ryk Brown
-- How JavaScript Works by Douglas Crockford
-- Functional Lite by Kyle Simpson
+- Ep.#2.3 - "Resurrection" (The Frontiers Saga) by Ryk Brown
 
 ...
 
