@@ -4,6 +4,7 @@
 
 - Angular
 - Go
+- React
 - Docker
 
 ## About Me
